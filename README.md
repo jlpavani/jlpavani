@@ -1,7 +1,6 @@
-### Hi there 👋
+### Hi there 😄
 
-<!--
-**jlpavani/jlpavani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Ph.D. candidate in the [Department of Statistics](http://www.mat.uc.cl/departamento-de-estadistica.html) at the Pontificia Universidad Católica de Chile. My current research focuses on Bayesian statistics, particularly spatial-temporal and product partition models. Furthermore, I am also interested in statistical modeling/methods in public health and computational methods.
 
 Here are some ideas to get you started:
 
